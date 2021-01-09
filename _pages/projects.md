@@ -18,6 +18,7 @@ I did this project as part of the course Blockchains and Cryptocurrencies, taugh
 </ol>
 
 Rinkeby transaction hash: 0xdbfe84475fac303beaa4c960fa67f2292c3cf71f47102ffb4e6007713cdec252
+
 Rinkeby public key address: 0xd687C7c9D44e4Af03d4C3F9dD4e98aE839983363
 
 ![Testnet txns](/images/rinkeby.PNG)
@@ -31,6 +32,7 @@ This operation is very expensive to perform in memory, hence we need to resort t
 
 ## Bluetooth based device tracker
 The motivation behind this project is property theft. I was travelling from Chennai to Hyderabad (cities in India) on a heavily crowded train. I was sleeping next to the exit door and was carrying 2 huge suitcases, one of which got stolen while I was asleep. I decided to track all my commodities with bluetooth devices attached to them, so that I receive alerts when they go out of range (Yeah, I didn't know the concept of Occam's razor back then). This technique seemed possible because bluetooth's range is 50m in densely crowded locations. I decided to code up a desktop and mobile application in Java regarding the same, which also has additional features like tracking the amount of time the device was in range. The UI looks somewhat like this at the end (I used JFrame API to build the UI). I used maven as a repository manager, so it is an additional dependency to install. 
+
 ![Bluetooth Tracker](/images/bluetooth-tracker.PNG)
 
 The code is available in my Github, in case it seems interesting - [https://github.com/akhilsb/Bluetooth-based-device-tracking-application](https://github.com/akhilsb/Bluetooth-based-device-tracking-application).
