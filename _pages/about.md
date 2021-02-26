@@ -17,5 +17,5 @@ redirect_from:
 
 ## Publications
 <ol>
-<li>Adithya Bhat, Akhil Bandarupalli, Manish Nagaraj, Michael K. Reiter, Saurabh Bagchi, and Aniket Kate, "E2C: Energy Efficient Byzantine Fault Tolerance for Cyber-Physical Systems," Submitted to Dependable Systems and Networks (DSN), 2021</li>
+<li>Bhat, A., Bandarupalli, A., Bagchi, S., Kate, A., & Reiter, M. K. Apollo–Optimistically Linear and Responsive SMR.</li>
 </ol>
